@@ -3,7 +3,7 @@ SublimeLinter-contrib-awchecker
 
 [![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-awchecker.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-awchecker)
 
-This linter plugin for [SublimeLinter][docs] provides an interface to [awchecker](__linter_homepage__). It will be used with files that have the “__syntax__” syntax.
+This linter plugin for [SublimeLinter][docs] provides an interface to [awchecker](https://github.com/ulricheck/awchecker). It will be used with files that have the “latex[ing]” syntax.
 
 ## Installation
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
@@ -19,7 +19,7 @@ Before using this plugin, you must ensure that `awchecker` is installed on your 
    ```
 
 
-**Note:** This plugin requires `awchecker` __version__ or later.
+**Note:** This plugin requires `awchecker` 0.1 or later.
 
 ### Linter configuration
 In order for `awchecker` to be executed by SublimeLinter, you must ensure that its path is available to SublimeLinter. Before going any further, please read and follow the steps in [“Finding a linter executable”](http://sublimelinter.readthedocs.org/en/latest/troubleshooting.html#finding-a-linter-executable) through “Validating your PATH” in the documentation.
