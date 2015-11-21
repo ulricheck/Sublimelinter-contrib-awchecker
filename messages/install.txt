@@ -1,0 +1,10 @@
+SublimeLinter-contrib-awchecker
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to awchecker.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/Ulrich Eck/SublimeLinter-contrib-awchecker
